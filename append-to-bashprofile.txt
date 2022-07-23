@@ -1,0 +1,2 @@
+source ~/.bashrc
+echo "END OF BASH_PROFILE " ${HOSTNAME}

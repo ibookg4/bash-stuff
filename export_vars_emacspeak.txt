@@ -1,0 +1,3 @@
+#for emacspeak
+export DTK_PROGRAM=mac
+export EMACSPEAK_DIR=~/emacspeak
